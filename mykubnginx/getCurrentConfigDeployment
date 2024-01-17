@@ -1,0 +1,8 @@
+#!/bin/bash
+
+echo "Start creating nginx-deployment-actual.yaml"
+
+kubectl get deployment nginx-deployment -o yaml > nginx-deployment-actual.yaml
+
+echo "End"
+

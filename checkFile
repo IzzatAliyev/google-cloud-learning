@@ -1,0 +1,9 @@
+#!/bin/bash
+
+# check if index.txt exists
+if [ -f ~/index.txt ]
+then
+    echo "exists"
+else
+    echo "not exists"
+fi

@@ -1,0 +1,16 @@
+.cache/
+.docker/
+.dotnet/
+.kube/
+.local/
+.npm/
+.nuget/
+.omnisharp/
+.templateengine/
+.theia/
+.bash_history
+.bashrc
+.profile
+.viminfo
+README-cloudshell.txt
+.DS_Store

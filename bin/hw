@@ -1,0 +1,8 @@
+#!/bin/bash
+#:Title : print hello
+#:Date : 2023.12.27
+#:Authon : Kiril
+#:Version : 1.0.0
+#:Description : printing hello world
+#:Options : None
+echo Hello, World!

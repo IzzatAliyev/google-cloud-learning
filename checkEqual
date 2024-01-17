@@ -1,0 +1,18 @@
+#!/bin/bash
+
+echo "start of the code"
+
+num=10
+
+#if [ ! $num -eq 100 ] # not equal
+#-gt gretter then
+#-ne not equal
+#-eq equal
+if [ $num -ne 100 ]
+then
+    echo "equals"
+else
+    echo "not equal"
+fi
+
+echo "end of the code"
